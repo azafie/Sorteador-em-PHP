@@ -1,0 +1,2 @@
+conexao. php deve ser editado da mesma forma
+na pasta admin, edite o arquivo conexao.php configuere o nome e senha do seu banco de dados
